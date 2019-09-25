@@ -33,6 +33,7 @@ dependencies:
 
 ```dart
 import 'package:digital_lcd/digital_lcd.dart';
+import 'package:digital_lcd/hex_color.dart';   //if you want use Hex Color codes this is required
 ```
 
 3. Example
@@ -53,7 +54,7 @@ Lcd(context).Number(
                       gradient: LinearGradient(
                           begin: Alignment.topCenter,
                           end: Alignment.bottomCenter,
-                          colors: [Colors.blue ,Colors.pink]
+                          colors: [HexColor("#A2AC89"), HexColor("#ABAE75")]
                       )
                   ),
      activeColor: Colors.black87.withOpacity(0.6),
