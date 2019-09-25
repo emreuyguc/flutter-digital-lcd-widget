@@ -50,15 +50,15 @@ Lcd(context).Number(
     lcdHeight:110 , // you may need to use scaleFactor if you use this value.
     scaleFactor :MediaQuery.of(context).size.height < MediaQuery.of(context).size.width ? 0.38: 0.2,//if you use lcdHeight , set this value for better ui
     segmentWidth : 10,// Thickness of each segment default 10 , best value range 5-12
-    lcdDecoration: BoxDecoration(
+    lcdDecoration: BoxDecoration(  //This is default decoration . not required
                       gradient: LinearGradient(
                           begin: Alignment.topCenter,
                           end: Alignment.bottomCenter,
                           colors: [HexColor("#A2AC89"), HexColor("#ABAE75")]
                       )
                   ),
-     activeColor: Colors.black87.withOpacity(0.6),
-     inactiveColor: Colors.black26.withOpacity(0.08),
+     activeColor: Colors.black87.withOpacity(0.6),  //This is default decoration . not required
+     inactiveColor: Colors.black26.withOpacity(0.08),  //This is default decoration . not required
 ),
 
 ```
