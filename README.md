@@ -1,7 +1,7 @@
 ![author](https://img.shields.io/badge/AUTHOR-EMRE%20UTKU%20UYGUC-red)
 ![author](https://img.shields.io/badge/CONTACT-emreuyguc@gmail.com-yellowgreen)
 ![author](https://img.shields.io/badge/-FLUTTER-blue)
-
+![GitHub](https://img.shields.io/github/license/emreuyguc/Flutter_digital_lcd_widget)
 
 # Flutter Digital Lcd Widget
 
