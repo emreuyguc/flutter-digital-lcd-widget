@@ -57,8 +57,8 @@ Lcd(context).Number(
                           colors: [HexColor("#A2AC89"), HexColor("#ABAE75")]
                       )
                   ),
-     activeColor: Colors.black87.withOpacity(0.6),  //This is default decoration . not required
-     inactiveColor: Colors.black26.withOpacity(0.08),  //This is default decoration . not required
+     activeColor: Colors.black87.withOpacity(0.6),  //This is default  . not required
+     inactiveColor: Colors.black26.withOpacity(0.08),  //This is default  . not required
 ),
 
 ```
