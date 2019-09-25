@@ -7,7 +7,14 @@
 
 Digital Lcd Style Widget For Numbers.
 
-## Getting Started
+## About
 
 With this plugin you can create digital lcd style number widgets.
 Supports various phone sizes. Settings are available for a responsive design.
+
+## Usage 
+
+```dart
+import 'package:digital_lcd/digital_lcd.dart';
+```
+
