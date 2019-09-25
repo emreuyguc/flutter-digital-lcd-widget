@@ -48,7 +48,7 @@ Lcd(context).Number(
     digitAlignment: MainAxisAlignment.center, //if you have extra width, use it for better ui
     lcdWidth: MediaQuery.of(context).size.width,// numbers automatically fit to width by count of digit. if you only use this value, the height of the lcd is automatically adjusted
     lcdHeight:110 , // you may need to use scaleFactor if you use this value.
-    scaleFactor :MediaQuery.of(context).size.height < MediaQuery.of(context).size.width ? 0.5: 0.2,//if you use lcdHeight , set this value for better ui
+    scaleFactor :MediaQuery.of(context).size.height < MediaQuery.of(context).size.width ? 0.38: 0.2,//if you use lcdHeight , set this value for better ui
     segmentWidth : 10,// Thickness of each segment default 10 , best value range 5-12
     lcdDecoration: BoxDecoration(
                       gradient: LinearGradient(
