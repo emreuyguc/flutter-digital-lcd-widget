@@ -52,3 +52,10 @@ Lcd(context).Number(
 ),
 
 ```
+## Images
+* Horizontal
+![](https://i.ibb.co/Pj6ht32/aaa.png)
+
+
+* Vertical
+![](https://i.ibb.co/Khf6P0K/bbbb.png)
