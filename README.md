@@ -17,10 +17,11 @@ Supports various phone sizes. Settings are available for a responsive design.
 1. Installing
 
 * Local
-  ```dart
+```dart
+dependencies:
   digital_lcd:
     path: ../digital_lcd/
-  ```
+```
   
 * Package
 ```dart
