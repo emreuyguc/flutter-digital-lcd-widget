@@ -2,7 +2,7 @@ name: digital_lcd
 description: Digital Lcd Style Widget For Numbers
 version: 1.0.1
 author: Emre Utku Uyguç <emreuyguc@gmail.com>
-homepage: https://github.com/emreuyguc/Flutter_digital_lcd_panel
+homepage: https://github.com/emreuyguc/Flutter_digital_lcd_widget
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
